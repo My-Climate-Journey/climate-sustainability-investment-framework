@@ -4,7 +4,7 @@ This framework was created as a tool for those seeking to make **emissions reduc
 
 While this is meant to guide investment decisions, it is not a stand-alone tool; it is intended to be used in conjunction with individual variables and preferences not described in the framework (such as financial return requirements, diversification goals, investment stage preferences, etc.). The metrics laid out within the framework are under constant refinement and the latest methodologies and accounting principles should be applied to any **emissions, ecosystem, and societal impact considerations**. Areas where quantitative evaluation tools for these specific considerations do not already exist provide an opportunity for this community to develop them.
 
-Chamath’s guidelines requested a for investing ~$3 billion into a multi-trillion dollar problem. To put this in human terms, imagine trying to fix $100,000+ of annual home damage with a one-time $300 budget – it helps, but it’s not nearly enough. Our goals in open sourcing our framework are that...:
+Chamath’s guidelines requested a framework for investing ~$3 billion into a multi-trillion dollar problem. To put this in human terms, imagine trying to fix $100,000+ of annual home damage with a one-time $300 budget – it helps, but it’s not nearly enough. Our goals in open sourcing our framework are that...:
 - ...other investors might adopt all or parts of the framework, attracting incrementally more capital to approach climate change in thoughtful ways
 - ...investors might collaborate in creative ways to unlock non-linear effects on complex climate challenges
 - ...companies might consider this thinking in their capital and operational decisions
