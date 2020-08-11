@@ -4,11 +4,11 @@
 
 To do this, we must invest in “gap technologies,” which, through direct and induced emissions reductions or removals, can have a catalyzing impact on reducing global emissions and limiting temperature rise to no more than 2°C by 2100. This is in line with the Paris Agreement and supports efforts to avoid systemic tipping points (e.g. Amazon deforestation, permafrost melt). 
 
-Achieving this goal requires a different approach to evaluating potential investments. This new assessment framework must consider far more metrics and diverse contexts around the world. It must also consider the large uncertainties in quantifying these broad areas while being tractable and usable for investors.  \
- \
+Achieving this goal requires a different approach to evaluating potential investments. This new assessment framework must consider far more metrics and diverse contexts around the world. It must also consider the large uncertainties in quantifying these broad areas while being tractable and usable for investors.  
+ 
 We perceive investment opportunities with widespread cross-sector impacts to be the most attractive from both a decarbonization/climate perspective as well as from a financial perspective. We identify and highlight key investment areas, as well as implications across sectors. We also emphasize addressing hurdles to adoption of “gap technologies” as a key consideration for our investment framework.
 
-##Investment Framework
+## Investment Framework
 
 **Principle 1: Emissions Considerations.** Carbon equivalent emissions (CO2e, which include carbon dioxide, methane, nitrous oxide as well as fluorinated gases) are the main contributors to temperature rise. Therefore, reducing CO2e is our leading indicator to ensure we are on the right path. Our target, in line with the 2°C cap stated above, is to drive annual emissions down from current 55 gigatons (GT) to 6 GT per year by 2100. 
 
@@ -28,20 +28,16 @@ Investments should be chosen to help accelerate the global transition to sustain
 
 **Principle 3: Societal Impact.** Investments that facilitate improvements in human health, education, and standard of living should be preferred. Similar to Principle 2, this can be a challenging metric to quantify, but we propose developing an evaluation framework using both existing (e.g. SDG indicators) and future metrics in this area. 
 
-###Financial Considerations and Structure
+### Financial Considerations and Structure
 
 We recommend an investment strategy for a purely profit-seeking enterprise, rather than one that includes advocacy or not-for-profit endeavors (though in some cases, non-investment activities can have significant positive impacts towards the goals of this framework). 
 
 We propose to focus on two types of activities:
 
-
-
 1. Investments that **reduce CO2e emissions**, either through direct emissions reductions or induced emissions reductions
 2. Investments that **remove, sequester, and/or utilize atmospheric carbon**
 
 There are multiple factors that may drive ultimate investment selection under these broad categories, including internal staff expertise, financial or political risk appetite, macro sector/stage allocation considerations, access to deal flow, internal financial hurdles and metrics, time horizons, reinvestment policies, and more. Without presuming to know specific details for any of these factors, we propose some broad selection considerations that may be useful in weighing trade-offs in allocating across stage and type of vehicle:
-
-
 
 1. **OpCo strategy**
     1. Buy an existing incumbent and implement new business practices in support of the principles above
@@ -62,14 +58,14 @@ While controlling equity positions may be possible in (2a), (2b), and (2c) above
 
 However, in all cases, we propose to weigh decisions toward maximizing pro-climate benefits while not prejudicing Principles 2 and 3. For instance, a solar development that displaces planned or existing coal-fired generation in a specific location might be considered more favorably than a stand-alone solar development in a different location, all else equal. Depending on internal financial considerations, in some cases it could make sense to accept a lower financial return from an investment that produces a substantially higher climate impact. 
 
-###A Note on Trade-offs and Cross-Sector Impacts
+### A Note on Trade-offs and Cross-Sector Impacts
 
 One key challenge of implementing this framework is dealing with the inevitable trade-offs. Is an additional 10% return better than an additional 1 gigaton of carbon reduction? What about fewer biodiversity impacts versus greater social inclusion in the developing world? These challenges require at a bare minimum full transparency on what the trade-offs are, and transparency requires asking the right questions and collecting as much data on the potential investments as possible. Only a few trade-offs can be managed by simple conversions. Carbon pricing is one example of the financial return and CO2e trade-off. Others are not as easy to quantify. Furthermore, investments that pose a significant danger to ecosystems/biodiversity must prove how their _positive_ financial, environmental, and social benefits will compensate for the potential harms. \
 
 
 On the other hand, there are positive externalities from each of these broad areas. Emissions reduction can help reduce negative impacts on ecosystems and biodiversity (e.g. reducing temperature change can alleviate species extinction rates), and on human development (slowing climate change reduces rates of human migration, natural disasters, and agricultural losses). Protected ecosystems also help facilitate human development - as an example, billions of people depend on a thriving ocean for their primary protein source. Likewise, human development can help reduce threats to ecosystems as well as reduce CO2e emissions (e.g. 3 billion people use open fires to cook, which emit high volumes of CO2e and black carbon. Providing clean alternatives will improve local health and ecosystems, while reducing global emissions).
 
-##Illustrative Examples
+## Illustrative Examples
 
 In the following section, we’ll examine three hypothetical opportunities to demonstrate the application of our framework. However, we first want to show the complexity of investing broadly across the climate opportunity set. Table 1 sets out approximate CO2e emissions by sector, including the breakdown of electrical power emissions across end-use sectors.
 
@@ -214,8 +210,8 @@ Source: [Project Drawdown](https://drawdown.org/solutions/table-of-solutions), 2
 
 Taken together, these tables illustrate the broad range of opportunities available in the climate impact sector, and the massive scale of the problem to avoid global temperature rise above 2**°**C. It also suggests the range of expertise that may be required to effectively evaluate opportunities across the landscape.
 
-The following examples demonstrate how the framework may be applied across three hypothetical investment opportunities. We purposefully avoid the myriad of financial considerations that might influence choices here, in the interest of demonstrating how our framework forces discussion about a broader set of strategic and environmentally holistic considerations. \
- \
+The following examples demonstrate how the framework may be applied across three hypothetical investment opportunities. We purposefully avoid the myriad of financial considerations that might influence choices here, in the interest of demonstrating how our framework forces discussion about a broader set of strategic and environmentally holistic considerations. 
+ 
 Here, we compare an advanced lithium-ion battery (Investment A), hempcrete construction blocks (Investment B), and an alternative refrigerant (Investment C). All of the technologies must reduce emissions without violating Principles 2 and 3; additionally, feasibility of producing financial returns should be considered. (All emissions reductions data here is hypothetical.)
 
 **Table 3: Comparison of Three Potential Hypothetical Investments**

@@ -12,4 +12,6 @@ Chamath’s guidelines requested a framework for investing ~$3 billion into a mu
 
 By opening this framework to new contributors, we hope to continually expand and build on the initial work and make it applicable to investors of all types.
 
-In the root repo you'll find the PDF file with our Aug 1, 2020 investment framework.
+In the root repo you'll find:
+- The PDF file with our Aug 1, 2020 investment framework, submitted as a proposal
+- The markdown file which acts as a living document with new contributions 
