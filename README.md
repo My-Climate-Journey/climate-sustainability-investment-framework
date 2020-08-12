@@ -4,11 +4,20 @@ This framework was created as a tool for those seeking to make **emissions reduc
 
 It will now live on as a collaborative, open-source project.  Contributions, suggestions, and discussion are all welcome.
 
-**Quick Menu**
--If you want to read the most up-to-date version of the framework, see [Investment Framework.md](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/blob/master/Investment%20Framework.md) 
--If you want to ask a question, raise an issue, or start a topic of discussion, go to [Issues](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/issues) and click the green "New issue" button.  Then write a title and the text for your question/issue/discsussion
--If you want to edit/revise the framework, go to [Investment Framework.md](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/blob/master/Investment%20Framework.md) and click the pencil 'Edit' button in the bar above the document.  At any time, you can click "Preview Changes" to see how your changes will appear.  When your edits/revisions are complete, scroll to the bottom 'Commit changes' section.  Give a title for the changes you made, and describe **why** you made that change.  Within several days, someone will review your changes - and if approved, update the document with your changes
--If you want to see the original version of the framework, see [MCJ Proposal_ Investment Framework for a More Sustainable World.pdf](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/blob/master/MCJ%20Proposal_%20Investment%20Framework%20for%20a%20More%20Sustainable%20World.pdf)
+**Menu**
+* If you want to read the most up-to-date version of the framework, see **[Investment Framework.md](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/blob/master/Investment%20Framework.md)** 
+
+* If you want to ask a question, raise an issue, or start a topic of discussion, go to **[Issues](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/issues)** and click the green "New issue" button.  Then write a title and the text for your question/issue/discsussion
+
+* If you want to edit/revise the framework, go to **[Investment Framework.md](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/blob/master/Investment%20Framework.md)** and click the 'Edit' button in the bar above the document.  
+
+  * At any time, you can click "Preview Changes" to see how your changes will appear.  
+
+  * When your edits/revisions are complete, scroll to the bottom 'Commit changes' section.  Give a title for the changes you made, and describe **why** you made that change.  
+
+  * Within several days, someone will review your changes - and if approved, update the document with your changes
+
+* If you want to see the original version of the framework, see **[MCJ Proposal_ Investment Framework for a More Sustainable World.pdf](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework/blob/master/MCJ%20Proposal_%20Investment%20Framework%20for%20a%20More%20Sustainable%20World.pdf)**
 
 *Additional Context*
 
