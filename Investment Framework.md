@@ -10,7 +10,7 @@ We perceive investment opportunities with widespread cross-sector impacts to be 
 
 ## Investment Framework
 
-**Principle 1: Emissions Considerations.** Carbon equivalent emissions (CO2e, which include carbon dioxide, methane, nitrous oxide as well as fluorinated gases) are the main contributors to temperature rise. Therefore, reducing CO2e is our leading indicator to ensure we are on the right path. Our target, in line with the 2°C cap stated above, is to drive annual emissions down from current 55 gigatons (GT) to 6 GT per year by 2100. 
+**Principle 1: Emissions Considerations.** Carbon equivalent emissions (CO2e, which include carbon dioxide, methane, nitrous oxide as well as fluorinated gases) are the main contributors to temperature rise. Therefore, reducing CO2e is our leading indicator to ensure we are on the right path. Our target, in line with the 2°C cap stated above, is to drive annual emissions down from current 55 gigatons (GT) to net zero per year by 2100, following [IPCC SR15](https://www.ipcc.ch/sr15/chapter/chapter-2/). 
 
 Investment decisions will be made by analyzing the potential GT of CO2e removed or avoided with the following considerations:
 
